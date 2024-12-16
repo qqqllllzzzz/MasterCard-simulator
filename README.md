@@ -1,4 +1,7 @@
 <img src="https://github.com/user-attachments/assets/7f7a44d7-cfad-4fe5-bb49-4422f1454ba7" alt="MasterCard_img">
+
+
+
 # MasterCard-simulator
 Simulator of the 'MasterCard' banking system. 
 You can create accounts, change account balances, block accounts, view blocked and working accounts, and view the balance.  
